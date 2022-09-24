@@ -1,0 +1,13 @@
+# production
+dist
+build
+
+# node
+node_modules
+package-lock.json
+
+# mac
+.DS_Store
+
+# vercel
+.vercel
